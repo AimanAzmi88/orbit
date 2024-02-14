@@ -5,6 +5,7 @@
     align-items: center;
     margin-top: 40vh;
     flex-direction: column;
+    gap: 20px;
  }
  .orbit-circle{
     display: inline-block;
@@ -77,4 +78,7 @@
             0 0 0 15px rgba(84, 247, 248, 0.1),
             0 0 0 20px rgba(84, 247, 248, 0);
         }
+    }
+    audio{
+        padding-top: 80px;
     }
